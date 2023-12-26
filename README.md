@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey, I'm Caio Oliveira! 👋
 
-<!--
-**oCaio-re/oCaio-re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 Originally from Brazil, currently living in Porto, Portugal.
+- 📚 Studying Computer Science at FCUP.
+- 📚 Studying at 42 Porto Common Core, exploring the depths of C and C++.
+- ⚙️ Focused on honing my programming skills and diving into software development.
+- 🏋️‍♂️ Interested in every aspect of music, teaching with passion and love.
 
-Here are some ideas to get you started:
+Feel free to explore my repositories and projects. My user on Intra and Slack is `ocaio-re`. Let's connect and learn together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![oCaio-re's GitHub stats](https://github-readme-stats.vercel.app/api?username=oCaio-re&count_private=true&include_all_commits=true&show_icons=true&hide=issues&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/oCaio-re?tab=repositories) [![oCaio-re's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oCaio-re&layout=compact&hide_border=true&bg_color=00000000&theme=dark)](https://github.com/oCaio-re?tab=repositories)
+
+<p align="center">
+    <img alt="oCaio-re's visitors" src="https://komarev.com/ghpvc/?username=oCaio-re&color=8c36db&style=flat&label=visitors" />
+</p>
+
+</div>
