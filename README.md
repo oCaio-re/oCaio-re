@@ -1,12 +1,11 @@
 # Hey, I'm Caio Oliveira! 👋
 
 - 🌎 Originally from Brazil, currently living in Porto, Portugal.
-- 📚 Studying Computer Science at FCUP.
-- 📚 Studying at 42 Porto Common Core, exploring the depths of C and C++.
-- ⚙️ Focused on honing my programming skills and diving into software development.
-- 🏋️‍♂️ Interested in every aspect of music, teaching with passion and love.
+- 💻 Full Stack Software Engineer, focused on Python, Django and TypeScript, React.
+- 🫡 Always eager to learn and contribute at any level when it comes to <b>solve problems</b>, regardless of the technology used.
+- 🎶 Among a few hobbies, music is the one.
 
-Feel free to explore my repositories and projects. My user on Intra and Slack is `ocaio-re`. Let's connect and learn together! 🚀
+Feel free to explore my repositories and projects.
 
 <div align="center">
 
