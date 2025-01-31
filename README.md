@@ -15,5 +15,4 @@ Feel free to explore my repositories and projects.
 <p align="center">
     <img alt="oCaio-re's visitors" src="https://komarev.com/ghpvc/?username=oCaio-re&color=8c36db&style=flat&label=visitors" />
 </p>
-
 </div>
